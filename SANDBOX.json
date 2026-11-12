@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "fixture_id": "ieo-poc-github-bootstrap",
+  "classification": "synthetic",
+  "upstream": "HeaInSeo/ieo_poc",
+  "purpose": "isolated GitHub integration experiments",
+  "role_credentials": "NOT_CONFIGURED",
+  "independent_gate": "NOT_CONFIGURED",
+  "experiment_status": "NOT_RUN"
+}
